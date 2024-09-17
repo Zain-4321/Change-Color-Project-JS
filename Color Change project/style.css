@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    background-color: orangered;
+    color: white;
+    height: 40px;
+    width: 340px;
+    border-radius: 20px; 
+    position: relative;
+        top:150px;
+        left: 380px; 
+
+
+}
+.main{
+    
+
+        height: 150px;
+        width: 90%;
+        border: 2px solid black;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+        align-items: center;
+        margin-top: 20px;
+        border-radius: 40px;
+        position: relative;
+        top:150px;
+        left: 50px;
+       
+
+}
+.button{
+        height: 120px;
+        width: 120px;
+        border: 2px solid black;
+        border-radius: 50%;
+    
+    
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
+#aqua{
+    background-color: aqua;
+}
+#chocolate{
+    background-color: chocolate;
+}
+#pink{
+    background-color: pink;
+}
+#blue{
+    background-color: blue;
+}
+#black{
+    background-color: black;
+}
+#red{
+    background-color: red;
+}
